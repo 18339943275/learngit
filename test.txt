@@ -1,9 +1,2 @@
 first test
-<<<<<<< HEAD
-IIiihfhsmaster and test branch
-=======
-master and test branch
-developer
-0328 testqqqq
-
->>>>>>> feature
+add feature
